@@ -1,0 +1,8 @@
+{
+  "baseURL": "http://automationpractice.pl",
+  "includeShadowDom": true,
+  "chromeWebSecurity": true,
+  "viewportHeight": 1080,
+  "viewportWifth": 1920,
+  "video": false
+  }
